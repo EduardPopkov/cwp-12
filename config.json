@@ -1,0 +1,11 @@
+{
+  "db": "nodeJs",
+  "login": "postgres",
+  "password": "root",
+  "port": 5432,
+  "host": "localhost",
+  "dialect": "postgres",
+  "dialectOptions": {
+    "instanceName": "postgres"
+  }
+}
